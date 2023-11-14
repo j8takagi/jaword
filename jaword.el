@@ -58,7 +58,7 @@
 
 (defgroup jaword nil
   "Minor-mode for handling Japanese words better."
-  :group 'emacs)
+  :group 'i18n)
 
 (defcustom jaword-buffer-size 50
   "size of text passed to the segmenter. set larger for better
