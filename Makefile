@@ -1,4 +1,4 @@
-TARGET := jaword         # "set this parameter, or error."
+TARGET := jaword
 TARGETDIR := $(TARGET)
 
 EMACS := emacs
