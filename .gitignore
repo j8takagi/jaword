@@ -1,2 +1,6 @@
+.gitignore
+Makefile
+set-compile.el
+native-compile.el
 *.elc
 
